@@ -30,7 +30,7 @@ It should then print out each name, in number order, using `puts`. The print-out
 should look like this:
 
 > 1.  Doc
-> 2.  Dopey
+> 2.  Dopey 
 > 3.  Bashful
 > 4.  Grumpy
 
